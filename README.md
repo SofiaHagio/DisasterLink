@@ -24,7 +24,7 @@ A solução foi pensada em três camadas:
  
 ---
  
-## 💡 O Projeto no Arduino — O que foi simulado
+## 💡 O Projeto no Arduino - O que foi simulado
  
 A prototipagem representa o núcleo operacional do kit físico: o momento em que o botão SOS de uma vítima é recebido, o sistema tenta o envio por 4G, falha, e aciona o satélite Iridium como fallback.
  
@@ -58,7 +58,7 @@ Os módulos reais (LoRa, GPS, modem 4G, modem Iridium) são representados no có
  
 ### Software
  
-- **Arduino IDE** 2.x — [download](https://www.arduino.cc/en/software)
+- **Arduino IDE** 2.x - [download](https://www.arduino.cc/en/software)
  
 ---
  
@@ -74,10 +74,10 @@ O sistema fica em monitoramento contínuo aguardando o acionamento do botão SOS
  
 | Etapa | O que acontece | Feedback visual/sonoro |
 |---|---|---|
-| **1. SOS recebido** | Sinal LoRa captado — exibe coordenadas GPS e distância da vítima | LED Vermelho pisca |
+| **1. SOS recebido** | Sinal LoRa captado - exibe coordenadas GPS e distância da vítima | LED Vermelho pisca |
 | **2. Tentativa 4G** | Sistema tenta enviar os dados pela rede celular | — |
-| **3. Falha 4G** | Sem sinal na área — canal principal indisponível | — |
-| **4. Envio Iridium** | Dados enviados via satélite — Defesa Civil avisada | 2 bipes no buzzer |
+| **3. Falha 4G** | Sem sinal na área - canal principal indisponível | — |
+| **4. Envio Iridium** | Dados enviados via satélite - Defesa Civil avisada | 2 bipes no buzzer |
 
 ---
 
