@@ -1,7 +1,6 @@
 # 🚨 DisasterLink — Kit de Emergência 
 
-> Projeto desenvolvido como parte da disciplina de Edge Computing & Computer Systems.  
-> Utiliza Arduino Uno para simular o núcleo operacional de um kit de emergência portátil que recebe sinais de socorro via rádio LoRa e os encaminha à Defesa Civil por 4G ou, quando este falha, via satélite Iridium, garantindo comunicação mesmo sem infraestrutura terrestre.
+> Projeto desenvolvido como parte da disciplina de Edge Computing & Computer Systems.
 
 ---
 
