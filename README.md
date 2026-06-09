@@ -40,7 +40,7 @@ Os módulos reais (LoRa, GPS, modem 4G, modem Iridium) são representados no có
  
 🔗 [Acessar simulação no Wokwi](https://wokwi.com/projects/465923138582135809)
  
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube)]()
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube)](https://youtu.be/tESxeKaAk8U?si=lvR81pXPXPQLN3X9)
  
 ---
  
